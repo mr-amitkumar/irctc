@@ -1,0 +1,13 @@
+/* Body Section */
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('img/ral.jpeg') ;
+    z-index: -1;
+}
+
+
+
+#form{
+    margin: 186px 67px;
+}
