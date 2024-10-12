@@ -2,7 +2,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: url('img/bg.jpg')no-repeat/cover;
+    background: url('img/bg.jpg');
     z-index: -1;
 }
 
